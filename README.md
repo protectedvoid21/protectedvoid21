@@ -4,7 +4,7 @@ I like C#
 
 ## Technologies i'm interested in : 
 - C#
-  - ASP-NET Core
+  - ASP.NET Core
   - Unity Engine
 - HTML
 - CSS
