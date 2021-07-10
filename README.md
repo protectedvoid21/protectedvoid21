@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there 🥶🥶🥶
 
-  I'm a beginner programmer who thinks he is cool.
-  You've got probably lost if you are reading this lol
+I like C#
 
 ## Technologies i'm interested in : 
 - C#
