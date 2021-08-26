@@ -9,3 +9,4 @@ I like C#
 - HTML
 - CSS
 - JavaScript (soon)
+- Rust (not even far)
