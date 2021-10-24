@@ -6,7 +6,5 @@ I like C#
 - C#
   - ASP.NET Core
   - Unity Engine
-- HTML
-- CSS
-- JavaScript (soon)
-- Rust (not even close)
+
+Nothing else
