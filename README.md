@@ -8,3 +8,5 @@ I like C#
   - Unity Engine
 
 Nothing else
+
+My goals for 2003 year : Get into COBOL
