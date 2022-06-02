@@ -1,4 +1,5 @@
 ### Hi there 🥶🥶🥶
+## My name is Michal and i am C# noob developer
 
 I like C#
 
