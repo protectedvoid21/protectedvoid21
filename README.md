@@ -7,6 +7,8 @@ I like C#
 - C#
   - ASP.NET Core
   - Unity Engine
+- HTML/CSS
+- Javascript
 
 Nothing else
 
