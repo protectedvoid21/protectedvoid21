@@ -1,7 +1,8 @@
 ### Hi there 🥶🥶🥶
 ## My name is Michal and i am C# noob developer
 
-I like C#
+I like C# <br>
+![](https://komarev.com/ghpvc/?username=protectedvoid21&color=brightgreen)
 
 ## Technologies i'm interested in : 
 - C#
