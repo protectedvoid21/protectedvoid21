@@ -14,7 +14,7 @@ i dont like java
   - Unity Engine
 - HTML/CSS
 - Javascript
-  - React.js
+- ~~Monty~~Python
 
 Nothing else
 
