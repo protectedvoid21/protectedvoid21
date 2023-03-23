@@ -11,6 +11,7 @@ i dont like java
 - <strong>C#</strong>
   - ASP.NET Core
   - Unity Engine
+- LaTeX
 - HTML/CSS
 - Javascript
 - ~~Monty~~Python
