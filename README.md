@@ -3,10 +3,6 @@
 
 I like C# <br>
 
-~~Bruh technology doesn't matter!!! Programming language is just a tool and it may be suitable or not. It just depends on things which you would like to create. Pick language for a purpose not the other way around.~~
-
-i dont like java
-
 ## Technologies i'm interested in : 
 - <strong>C#</strong>
   - ASP.NET Core
