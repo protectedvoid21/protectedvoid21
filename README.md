@@ -1,7 +1,5 @@
-### Hi there 🥶🥶🥶
-## My name is Michal and i am C# noob developer
-Trying to get into data science or machine learning idk what for loop is
-
+### Hi there!
+## My name is Michal and I am a C# connoisseur
 I like C# <br>
 
 ## Technologies i'm interested in : 
