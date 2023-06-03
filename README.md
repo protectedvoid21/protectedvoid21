@@ -10,6 +10,7 @@ I like C# <br>
 - Javascript
 
 Open minded for
+- more C#
 - React.js
 
 My goals for 2003 year : Get into COBOL
