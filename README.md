@@ -1,18 +1,10 @@
 ### Hi there!
 ## My name is Michal and I am a C# connoisseur
+Specializing in writing backend in .NET technology.
+
 I like C# <br>
 
-## Technologies i'm interested in : 
-- <strong>C#</strong>
-  - ASP.NET Core
-- LaTeX
-- HTML/CSS
-- Javascript
+## Tech stack : 
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,azure,html,css,js,py,git,github)](https://skillicons.dev)
 
-Open minded for
-- more C#
-- React.js
-
-My goals for 2003 year : Get into COBOL
-
-My goals for 2004 year : Learn FORTRAN and finish college
+Feel free to follow me or visit my repositories!
