@@ -6,5 +6,3 @@ I like C# <br>
 
 ## Tech stack : 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,azure,html,css,js,py,git,github)](https://skillicons.dev)
-
-Feel free to follow me or visit my repositories!
