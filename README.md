@@ -5,6 +5,6 @@ Specializing in writing backend in .NET technology.
 I like C# <br>
 
 ## Tech stack : 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,azure,angular,html,css,js,py,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,azure,angular,ts,js,html,css,py,git,github)](https://skillicons.dev)
 
 ~~My projects are currenty obsolete~~
