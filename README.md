@@ -8,4 +8,4 @@ Open source fanatic
 I use arch btw
 
 ## Tech stack : 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,azure,react,ts,py,linux,arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,azure,postgres,react,ts,py,linux,arch)](https://skillicons.dev)
