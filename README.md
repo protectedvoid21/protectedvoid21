@@ -5,7 +5,7 @@ I like C# <br>
 
 Open source fanatic
 
-I use arch btw
+I used arch btw
 
 ## Tech stack : 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,azure,postgres,react,ts,py,linux,arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,azure,postgres,react,ts,py,linux)](https://skillicons.dev)
